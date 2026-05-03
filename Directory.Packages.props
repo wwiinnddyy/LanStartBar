@@ -1,11 +1,8 @@
 <Project>
-
   <PropertyGroup>
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
-
   <ItemGroup>
-    <PackageVersion Include="Jalium.UI" Version="26.10.1-preview.3" />
+    <PackageVersion Include="Jalium.UI" Version="26.10.2" />
   </ItemGroup>
-
 </Project>
